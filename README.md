@@ -1,1 +1,2 @@
-# Event-Booking-Portal
+# Event-booking-portal
+event-booking-portal
